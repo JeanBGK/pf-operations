@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Background circle -->
+  <circle cx="256" cy="256" r="240" fill="#1e40af"/>
+  <!-- Box/package shape -->
+  <path d="M256 80 L420 170 L420 350 L256 440 L92 350 L92 170 Z" fill="#2563eb" stroke="#1e3a8a" stroke-width="4"/>
+  <!-- Top face -->
+  <path d="M256 80 L420 170 L256 260 L92 170 Z" fill="#3b82f6"/>
+  <!-- Center line -->
+  <line x1="256" y1="260" x2="256" y2="440" stroke="#1e3a8a" stroke-width="3"/>
+  <!-- Top cross -->
+  <line x1="256" y1="80" x2="256" y2="260" stroke="#1e3a8a" stroke-width="3"/>
+  <line x1="92" y1="170" x2="420" y2="170" stroke="#1e3a8a" stroke-width="3" opacity="0.3"/>
+  <!-- PF text -->
+  <text x="256" y="290" text-anchor="middle" font-family="Arial, sans-serif" font-size="100" font-weight="bold" fill="white">PF</text>
+  <!-- Small gear icon -->
+  <circle cx="256" cy="370" r="25" fill="none" stroke="white" stroke-width="5"/>
+  <circle cx="256" cy="370" r="8" fill="white"/>
+</svg>
