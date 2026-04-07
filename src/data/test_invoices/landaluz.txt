@@ -1,0 +1,228 @@
+SHIPPER
+BUYER
+DELIVERY 
+ADDRESS
+CONSIGNEE
+PALLET
+BRAND 
+NAME
+UNITS
+TOTAL 
+WEIGHT 
+(kg)
+PRICE 
+KILO / 
+UNIT
+TOTAL 
+PRICE (€)
+2
+9,86
+35,00 €
+345,10 €
+1
+13,18
+23,97 €
+315,92 €
+15
+-
+38,50 €
+577,50 €
+2
+25,32
+25,70 €
+650,72 €
+2
+15,62
+22,60 €
+353,01 €
+2
+25,89
+27,80 €
+719,74 €
+1
+22,52
+28,79 €
+648,35 €
+8
+3,01
+26,80 €
+80,67 €
+3
+3,66
+34,50 €
+126,27 €
+7
+3,18
+26,80 €
+85,22 €
+10
+-
+0,05 €
+0,50 €
+10
+-
+0,05 €
+0,50 €
+10
+-
+0,05 €
+0,50 €
+10
+-
+0,05 €
+0,50 €
+10
+-
+0,05 €
+0,50 €
+10
+-
+0,05 €
+0,50 €
+1
+18,06
+0,05 €
+0,05 €
+5
+-
+0,05 €
+0,25 €
+6
+-
+0,05 €
+0,30 €
+1
+4,51
+0,05 €
+0,05 €
+1
+1,94
+0,05 €
+0,05 €
+2
+4,50
+0,05 €
+0,10 €
+4
+21,00
+0,05 €
+0,20 €
+1
+2,82
+0,05 €
+0,05 €
+20
+-
+0,05 €
+1,00 €
+6
+4,45
+0,05 €
+0,30 €
+1
+13,00
+0,05 €
+0,05 €
+10
+-
+0,05 €
+0,50 €
+2
+-
+0,05 €
+0,10 €
+1
+2,00
+0,05 €
+0,05
+1
+-
+0,05 €
+0,05 €
+TOTAL DUE
+3.909,35 €
+3.908,62 €
+0,73 €
+TOTAL GOODS UNDER ORDER
+SPECIFIED RISK MATERIAL
+COMMERCIAL INVOICE PO 26030092 - TXOGITXU
+DESCRIPTION
+LANDALUZ, CENTRAL DE SERVICIOS S.L. 
+C/Viena s/n Hacienda de Quinto
+41089, Dos Hermanas, Seville, Spain
+VAT: ESB91891853.
+BOXES
+FDX Co., Ltd.
+20/52, Soi Sukhumvit 36, Klongton, Klongtoey
+Bangkok, TH-10110. 
+TAX ID – 0105561099719 CTC MS KUNALAI TEL: 
++662 012 6921
+C/O CEVA LOGISTICS
+13, BOULEVARD DU DELTA
+BP 10104 - ZONE EURO DELTA
+94658 RUNGIS 
+PHONE: +331 41 73 00 67
+Contact: Thierno SOW
+EXT.Thierno.Sow@cevalogistics.com
+PRODUCT OF SPAIN. CPT RUNGIS
+Invoice number:   EXP2026/0041    Date: 20/03/2026
+FDX Co., Ltd.
+20/52, Soi Sukhumvit 36, Klongton, Klongtoey
+Bangkok, TH-10110. 
+TAX ID – 0105561099719 CTC MS KUNALAI TEL: 
++662 012 6921
+(140275) Beef Picanha, Rubia Gallega – Txogitxu
+1
+(101051) Beef Sirloin Premium individual cutlet 
+500 gr/pc (15 pc/cs) 
+1
+(130052) Beef Lomo Alto Gallego (Boneless) Sin 
+Encimera, Extra (10-12kg)
+(100189) Beef Striploin full rack 25 kg +/- 
+Rubia gallega Txogitxu
+1
+(100001) Beef Ribeye Lomo Alto Gallego (9-12kg) - 
+Txogitxu
+(100003) Beef Cider House Sirloin (3 pc/cs) (6-7 
+kg/pc)
+(130081) Beef Sirloin Boneless (Lomo Bajo) EXTRA 
+(Avg 6-7 kg (3pc/case) - Rubia Gallega
+TXOGITXU
+1
+(220002) Beef Chorizo (350  g/pc) - Txogitxu
+(210001) Beef Ham (Avg 1kg/pc) - Txogitxu
+(230001) Beef Salchichon (400g/pc) (3kg) - 
+Txogitxu
+1
+2
+1
+1
+1
+1
+(220000) Beef Chorizo (0,35 KG)
+(230000) Beef Salami (0,40 KG)
+1
+SAMPLES WITH NO COMMERCIAL VALUE
+(140282) Cured sliced beef pikaña 90 GR
+(140288) Cured sliced beef steak 90 GR
+(210002) Sliced beef ham 90 GR
+(210008) Sobre panceta de Vaca Origen España 
+(220008) Sliced beef chorizo 90 GR
+(230003) Sliced beef salami 90 GR
+(912006) Tronco de madera inglés
+(14110) Salmonella test
+(340000) BIO Oil 2L
+8
+TXOGITXU
+-
+(200010) Pork txistorra 3 pcs 900 GR (1 BAG)
+(100166) Origin Spain veal Tomahawk
+(911001) Apron
+(100194) T-Bone de vaca Rubia Gallega (0,5 KG 
+aprox.)
+(300042) Fresh confit Beef cheeks in bulk
+(300054) Pre-cut 500 GR bone-in sirloin origin 
+(210001) Beef Ham
+(140265) Cured Beef Pikaña
+(300055) Rubia Gallega Breed Tenderloin 200 GR
+(100191) Rubia Gallega Breed Bone-in Rib-Eye

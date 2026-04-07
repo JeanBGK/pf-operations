@@ -1,0 +1,212 @@
+[
+  {
+    "supplier": "Desailly",
+    "pf_code": "DB19",
+    "supplier_article_code": "1535",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  },
+  {
+    "supplier": "Desailly",
+    "pf_code": "DC18",
+    "supplier_article_code": "446",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  },
+  {
+    "supplier": "Desailly",
+    "pf_code": "DB31",
+    "supplier_article_code": "720",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  },
+  {
+    "supplier": "Le Delas",
+    "pf_code": "CA12",
+    "supplier_article_code": "142119",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  },
+  {
+    "supplier": "Le Delas",
+    "pf_code": "CA33",
+    "supplier_article_code": "142200",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  },
+  {
+    "supplier": "Le Delas",
+    "pf_code": "CS30",
+    "supplier_article_code": "138488",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  },
+  {
+    "supplier": "Le Delas",
+    "pf_code": "MC262",
+    "supplier_article_code": "8008",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  },
+  {
+    "supplier": "Le Delas",
+    "pf_code": "MP21",
+    "supplier_article_code": "7040",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  },
+  {
+    "supplier": "Le Delas",
+    "pf_code": "MP33",
+    "supplier_article_code": "9000",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  },
+  {
+    "supplier": "Le Delas",
+    "pf_code": "CI6",
+    "supplier_article_code": "138349",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  },
+  {
+    "supplier": "Le Delas",
+    "pf_code": "ST36",
+    "supplier_article_code": "26349",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  },
+  {
+    "supplier": "Le Delas",
+    "pf_code": "CV28",
+    "supplier_article_code": "122311",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  },
+  {
+    "supplier": "Demarne",
+    "pf_code": "SF219",
+    "supplier_article_code": "8181",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  },
+  {
+    "supplier": "Demarne",
+    "pf_code": "SF316",
+    "supplier_article_code": "8274",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  },
+  {
+    "supplier": "Demarne",
+    "pf_code": "SH73",
+    "supplier_article_code": "9172",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  },
+  {
+    "supplier": "Demarne",
+    "pf_code": "SS41",
+    "supplier_article_code": "8053",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  },
+  {
+    "supplier": "Demarne",
+    "pf_code": "SS44",
+    "supplier_article_code": "8058",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  },
+  {
+    "supplier": "Demarne",
+    "pf_code": "SY161",
+    "supplier_article_code": "2372",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  },
+  {
+    "supplier": "Demarne",
+    "pf_code": "SY162",
+    "supplier_article_code": "2110",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  },
+  {
+    "supplier": "Demarne",
+    "pf_code": "SF323",
+    "supplier_article_code": "8412",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  },
+  {
+    "supplier": "Demarne",
+    "pf_code": "SF333",
+    "supplier_article_code": "8543",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  },
+  {
+    "supplier": "Demarne",
+    "pf_code": "SF692",
+    "supplier_article_code": "4406",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  },
+  {
+    "supplier": "Demarne",
+    "pf_code": "ST114",
+    "supplier_article_code": "3440",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  },
+  {
+    "supplier": "Demarne",
+    "pf_code": "ST123",
+    "supplier_article_code": "3441",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  },
+  {
+    "supplier": "Demarne",
+    "pf_code": "ST128",
+    "supplier_article_code": "3435",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  },
+  {
+    "supplier": "Demarne",
+    "pf_code": "ST239",
+    "supplier_article_code": "4196",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  },
+  {
+    "supplier": "Demarne",
+    "pf_code": "SF285",
+    "supplier_article_code": "7107",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  },
+  {
+    "supplier": "Demarne",
+    "pf_code": "SH65",
+    "supplier_article_code": "9040",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  },
+  {
+    "supplier": "Demarne",
+    "pf_code": "SH75",
+    "supplier_article_code": "9172",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  },
+  {
+    "supplier": "Demarne",
+    "pf_code": "ST154",
+    "supplier_article_code": "3990",
+    "match_source": "ref_code",
+    "first_seen_date": "2026-04-05"
+  }
+]
