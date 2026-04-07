@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { useStockData } from "@/lib/use-stock-data";
 import { SearchBar, FilterButtons, StockDateNote, Spinner } from "@/components/stock/filters";
 import { DesktopTable } from "@/components/stock/desktop-table";
@@ -19,6 +20,7 @@ export default function StockPage() {
 
   return (
     <div>
+      <Link href="/" className="text-sm text-blue-600 hover:underline mb-3 inline-block">&larr; Home</Link>
       {/* Controls */}
       <div className="flex flex-col gap-3 mb-4">
         <SearchBar
