@@ -16,3 +16,8 @@ export const supabaseCore = createClient(supabaseUrl, supabaseAnonKey, {
 export const supabaseInventory = createClient(supabaseUrl, supabaseAnonKey, {
   db: { schema: 'inventory' },
 });
+
+// Helper for purchasing schema (stock replenishment queries)
+export const supabasePurchasing = createClient(supabaseUrl, supabaseAnonKey, {
+  db: { schema: 'purchasing' },
+});
